@@ -40,3 +40,4 @@ env/bin/pip install -r requirements.txt
 
 # run the run-intg-test.py script
 python run-intg-test.py
+sleep 1h
